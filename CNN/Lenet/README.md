@@ -20,7 +20,5 @@ LeNet Diagram (Text Version)
         Output: 10 classes
 
 
-sample output :
-
 
                 
