@@ -1,0 +1,7 @@
+Implement k-means clustering from scratch using only NumPy
+
+Build a simple neural network (1 hidden layer) using matrix ops
+
+Write your own image filters (blur, sharpen) using convolution
+
+Create a NumPy-based statistics toolkit
