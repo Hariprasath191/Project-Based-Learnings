@@ -121,10 +121,12 @@ Customer segmentation enables **targeted marketing strategies**, improving conve
 ---
 
 ## 📁 Project Structure
+```
 ├── Mall customer segmentation.ipynb
 ├── README.md
 └── data/
-└── Mall_Customers.csv
+    └── Mall_Customers.csv
+```
 ## 🚀 Future Improvements
 
 - Add cluster-based recommendation system
