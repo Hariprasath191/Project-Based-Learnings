@@ -121,4 +121,24 @@ Customer segmentation enables **targeted marketing strategies**, improving conve
 ---
 
 ## 📁 Project Structure
+├── Mall customer segmentation.ipynb
+├── README.md
+└── data/
+└── Mall_Customers.csv
+## 🚀 Future Improvements
 
+- Add cluster-based recommendation system
+- Perform RFM analysis
+- Integrate with real-time customer data
+- Deploy insights via dashboard
+
+---
+
+## 👤 Author
+
+**Hari Prasath**  
+AI & Data Science Enthusiast  
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
